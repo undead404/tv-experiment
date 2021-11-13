@@ -48,4 +48,5 @@ export default function showsReducer(
         shows: [],
       };
   }
+  return state;
 }

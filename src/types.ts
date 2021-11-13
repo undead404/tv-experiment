@@ -5,7 +5,7 @@ export interface Show {
     };
   };
   id: number;
-  image: {
+  image?: {
     medium: string;
   };
   name: string;
